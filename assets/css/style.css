@@ -56,11 +56,11 @@ p{
 
 }
 body{  
-    height: 1000px;
+    height: 500px;
     background-image: url("../images/gravel.jpg");
     background-repeat:repeat-n;
     color: #777777;
-    font-family: Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #MenuStyle ul{
@@ -87,7 +87,7 @@ aside
     border-radius:3px solid #7777;
     background-color:#fffF;
     box-sizing: border-box; 
-    margin:150px;
+    margin:100px;
 }
 
 .wrapper
@@ -107,7 +107,7 @@ aside
     background-color:  #666666;
     color: #ffffff;
     text-align: center;
-    padding: 30px;
+    padding: 10px;
 }
 
 .header{
