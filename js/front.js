@@ -373,3 +373,15 @@ function map() {
     }
 
 }
+
+/**** Firebase Connection for contact us */
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBLSK922jteE8E1jgL5joMij1Q16_iH2SQ",
+    authDomain: "portfolio-e7e99.firebaseapp.com",
+    databaseURL: "https://portfolio-e7e99.firebaseio.com",
+    projectId: "portfolio-e7e99",
+    storageBucket: "",
+    messagingSenderId: "936932637093"
+  };
+  firebase.initializeApp(config);
